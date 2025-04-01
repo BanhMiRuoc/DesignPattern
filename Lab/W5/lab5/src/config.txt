@@ -1,7 +1,0 @@
-# Access Database
-dbtype=access
-access_path=E:/students.accdb
-
-# SQL Server
-# dbtype=sqlserver
-# sqlserver_path=sqlserver_path=jdbc:sqlserver://localhost:1433;databaseName=design_pattern_lab5;user=sa;password=lecongtuan123;encrypt=false;trustServerCertificate=true;
